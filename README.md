@@ -5,11 +5,11 @@
 ## Installation
 
 ```sh
-$ npm install --save next-offline
+$ npm install --save react-document-visibility
 ```
 
 ```sh
-$ yarn add next-offline
+$ yarn add react-document-visibility
 ```
 
 ### child is a function
