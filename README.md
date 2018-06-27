@@ -14,10 +14,10 @@ $ yarn add next-offline
 
 ### child is a function
 
-To use the `Visible` component, you pass it a function. It will be called whenever the state changes, with the new value of `visible`.
+To use the `Visbility` component, you pass it a function. It will be called whenever the state changes, with the new value of `visible`.
 
 ```js
-import Visible from 'react-document-visibility'
+import Visbility from 'react-document-visibility'
 
 const Component = () => (
   <Visbility>
